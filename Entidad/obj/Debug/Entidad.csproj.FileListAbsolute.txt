@@ -1,0 +1,14 @@
+C:\Users\gucuccaro\Desktop\LPPA\Sistema\WebApplication1\Entidad\bin\Debug\Entidad.dll
+C:\Users\gucuccaro\Desktop\LPPA\Sistema\WebApplication1\Entidad\bin\Debug\Entidad.pdb
+C:\Users\gucuccaro\Desktop\LPPA\Sistema\WebApplication1\Entidad\obj\Debug\Entidad.dll
+C:\Users\gucuccaro\Desktop\LPPA\Sistema\WebApplication1\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Navegador\Desktop\LPPA\DiamondZapatosSistema\WebApplication1\Entidad\bin\Debug\Entidad.dll
+C:\Users\Navegador\Desktop\LPPA\DiamondZapatosSistema\WebApplication1\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Navegador\Desktop\LPPA\DiamondZapatosSistema\WebApplication1\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\LPPA\DiamondZapatosSistema\WebApplication1\Entidad\obj\Debug\Entidad.dll
+C:\Users\Navegador\Desktop\LPPA\DiamondZapatosSistema\WebApplication1\Entidad\obj\Debug\Entidad.pdb
+C:\Users\gucuccaro\Desktop\LPPA\WebApplication1\WebApplication1\Entidad\bin\Debug\Entidad.dll
+C:\Users\gucuccaro\Desktop\LPPA\WebApplication1\WebApplication1\Entidad\bin\Debug\Entidad.pdb
+C:\Users\gucuccaro\Desktop\LPPA\WebApplication1\WebApplication1\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\gucuccaro\Desktop\LPPA\WebApplication1\WebApplication1\Entidad\obj\Debug\Entidad.dll
+C:\Users\gucuccaro\Desktop\LPPA\WebApplication1\WebApplication1\Entidad\obj\Debug\Entidad.pdb
